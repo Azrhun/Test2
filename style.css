@@ -1,0 +1,64 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+body{
+    font-family: 'manrope',sans-serif ;
+    font-size: 1em;
+    background-color: #1f2039;
+}
+
+
+h1{
+    color: #a5b4fc;
+    font-family: "Montserrat";
+    font-size: 3.5em;
+
+}
+h2{
+    color: #F9F8FF;
+}
+p,li{
+    font-size: 1.1em;
+    color: #f9f8ff;
+}
+
+em{
+    color: #a5b4fc;
+    font-style: normal;
+}
+
+
+a {
+    color: black;
+    text-decoration: none;
+    color: #242424;
+
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+  .linkcolor:hover{
+    color: blue;
+  }
+  .linkvistedcolor{
+    color: aqua;
+  }
+  
+  .backwhite{
+    background-color: white;
+  }
+.cta{
+    background:linear-gradient(#8e86b5, #acaeed);
+    color: white;
+    border-radius: 50px;
+}
+
+.block-p-and-ul{
+    border-right:solid #8e86b5 1px;
+    border-bottom:solid #8e86b5 1px;
+}
+.lienicone:hover{
+    opacity: 0.5;
+}
